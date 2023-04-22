@@ -1,3 +1,12 @@
-body {
-    background-color: darkseagreen;
+body .back-ghibli {
+    opacity: 0.6;
+    position: fixed;
+    z-index: -2;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: auto;
+}
+.titulo {
+    text-shadow: 4px 4px 2px grey;
 }
